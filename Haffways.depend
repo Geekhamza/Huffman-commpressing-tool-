@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1518148108 source:c:\users\geek hamza\desktop\tcpc\usaco\haffways\main.cpp
+	<iostream>
+	"build_tree.h"
+
+1517980618 source:c:\users\geek hamza\desktop\tcpc\usaco\haffways\src\node.cpp
+	"Node.h"
+
+1517893762 c:\users\geek hamza\desktop\tcpc\usaco\haffways\include\node.h
+	<string>
+
+1518159691 c:\users\geek hamza\desktop\tcpc\usaco\haffways\include\build_tree.h
+	"Node.h"
+	<bits/stdc++.h>
+
+1518160043 source:c:\users\geek hamza\desktop\tcpc\usaco\haffways\src\build_tree.cpp
+	"build_tree.h"
+	"Node.h"
+	<bits/stdc++.h>
+
